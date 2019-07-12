@@ -1,0 +1,99 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\HP de Aneng\Desktop\UDPSocketDemo-master\app\src\main\AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from C:\Users\HP de Aneng\Desktop\UDPSocketDemo-master\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from C:\Users\HP de Aneng\Desktop\UDPSocketDemo-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HP de Aneng\Desktop\UDPSocketDemo-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\HP de Aneng\Desktop\UDPSocketDemo-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HP de Aneng\Desktop\UDPSocketDemo-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\HP de Aneng\Desktop\UDPSocketDemo-master\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\HP de Aneng\Desktop\UDPSocketDemo-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HP de Aneng\Desktop\UDPSocketDemo-master\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\HP de Aneng\Desktop\UDPSocketDemo-master\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\HP de Aneng\Desktop\UDPSocketDemo-master\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\HP de Aneng\Desktop\UDPSocketDemo-master\app\src\main\AndroidManifest.xml:6:5-76
+	android:name
+		ADDED from C:\Users\HP de Aneng\Desktop\UDPSocketDemo-master\app\src\main\AndroidManifest.xml:6:22-73
+application
+ADDED from C:\Users\HP de Aneng\Desktop\UDPSocketDemo-master\app\src\main\AndroidManifest.xml:8:5-26:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\HP de Aneng\.android\build-cache\3be79c66ac4d7beefdfd57ec36c38e256e8c140e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\HP de Aneng\.android\build-cache\fdd3051b1ed6d467ec616054a3d206324c2887af\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\HP de Aneng\.android\build-cache\c6a27bd4f5aecc0e8ff5ac3731cda9c8d162337d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\HP de Aneng\.android\build-cache\ca13ff2d787e913b17dab1af67db9ac7ac6a7fc5\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\HP de Aneng\.android\build-cache\c5963b83095956ca9aca00a01bcb6495dfa8ab7e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\HP de Aneng\.android\build-cache\9cbf3f3a54a0082291e78ab0b4c70dc860709f9c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\HP de Aneng\.android\build-cache\5ebd86a7afb1d7d21c7dc3d83fe9c48f0cdc3621\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\HP de Aneng\.android\build-cache\0562a4536bcd4e370fa71fce4038e0cb6641c99b\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\HP de Aneng\.android\build-cache\1f124f2c8ed65be4e16247f7baf70984b0020c95\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\HP de Aneng\.android\build-cache\d4600ab86567c406dcaf7c481553fb92953c855b\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\HP de Aneng\Desktop\UDPSocketDemo-master\app\src\main\AndroidManifest.xml:11:9-41
+	android:supportsRtl
+		ADDED from C:\Users\HP de Aneng\Desktop\UDPSocketDemo-master\app\src\main\AndroidManifest.xml:13:9-35
+	android:roundIcon
+		ADDED from C:\Users\HP de Aneng\Desktop\UDPSocketDemo-master\app\src\main\AndroidManifest.xml:12:9-54
+	android:allowBackup
+		ADDED from C:\Users\HP de Aneng\Desktop\UDPSocketDemo-master\app\src\main\AndroidManifest.xml:9:9-35
+	android:icon
+		ADDED from C:\Users\HP de Aneng\Desktop\UDPSocketDemo-master\app\src\main\AndroidManifest.xml:10:9-43
+	android:theme
+		ADDED from C:\Users\HP de Aneng\Desktop\UDPSocketDemo-master\app\src\main\AndroidManifest.xml:14:9-40
+activity#melo.com.udpsocketdemo.MainActivity
+ADDED from C:\Users\HP de Aneng\Desktop\UDPSocketDemo-master\app\src\main\AndroidManifest.xml:15:9-16:20
+	android:name
+		ADDED from C:\Users\HP de Aneng\Desktop\UDPSocketDemo-master\app\src\main\AndroidManifest.xml:15:19-47
+activity#melo.com.udpsocketdemo.UDPSocketActivity
+ADDED from C:\Users\HP de Aneng\Desktop\UDPSocketDemo-master\app\src\main\AndroidManifest.xml:18:9-24:20
+	android:name
+		ADDED from C:\Users\HP de Aneng\Desktop\UDPSocketDemo-master\app\src\main\AndroidManifest.xml:18:19-52
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\HP de Aneng\Desktop\UDPSocketDemo-master\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\HP de Aneng\Desktop\UDPSocketDemo-master\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from C:\Users\HP de Aneng\Desktop\UDPSocketDemo-master\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\HP de Aneng\Desktop\UDPSocketDemo-master\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from C:\Users\HP de Aneng\Desktop\UDPSocketDemo-master\app\src\main\AndroidManifest.xml:22:27-74
+uses-sdk
+INJECTED from C:\Users\HP de Aneng\Desktop\UDPSocketDemo-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\HP de Aneng\.android\build-cache\3be79c66ac4d7beefdfd57ec36c38e256e8c140e\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\HP de Aneng\.android\build-cache\fdd3051b1ed6d467ec616054a3d206324c2887af\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\HP de Aneng\.android\build-cache\c6a27bd4f5aecc0e8ff5ac3731cda9c8d162337d\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\HP de Aneng\.android\build-cache\ca13ff2d787e913b17dab1af67db9ac7ac6a7fc5\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\HP de Aneng\.android\build-cache\c5963b83095956ca9aca00a01bcb6495dfa8ab7e\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\HP de Aneng\.android\build-cache\9cbf3f3a54a0082291e78ab0b4c70dc860709f9c\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\HP de Aneng\.android\build-cache\5ebd86a7afb1d7d21c7dc3d83fe9c48f0cdc3621\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\HP de Aneng\.android\build-cache\0562a4536bcd4e370fa71fce4038e0cb6641c99b\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\HP de Aneng\.android\build-cache\1f124f2c8ed65be4e16247f7baf70984b0020c95\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\HP de Aneng\.android\build-cache\d4600ab86567c406dcaf7c481553fb92953c855b\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\HP de Aneng\.android\build-cache\3be79c66ac4d7beefdfd57ec36c38e256e8c140e\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\HP de Aneng\Desktop\UDPSocketDemo-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HP de Aneng\Desktop\UDPSocketDemo-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\HP de Aneng\Desktop\UDPSocketDemo-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HP de Aneng\Desktop\UDPSocketDemo-master\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\HP de Aneng\.android\build-cache\3be79c66ac4d7beefdfd57ec36c38e256e8c140e\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\HP de Aneng\.android\build-cache\fdd3051b1ed6d467ec616054a3d206324c2887af\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\HP de Aneng\.android\build-cache\c6a27bd4f5aecc0e8ff5ac3731cda9c8d162337d\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\HP de Aneng\.android\build-cache\ca13ff2d787e913b17dab1af67db9ac7ac6a7fc5\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\HP de Aneng\.android\build-cache\c5963b83095956ca9aca00a01bcb6495dfa8ab7e\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\HP de Aneng\.android\build-cache\9cbf3f3a54a0082291e78ab0b4c70dc860709f9c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\HP de Aneng\.android\build-cache\5ebd86a7afb1d7d21c7dc3d83fe9c48f0cdc3621\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\HP de Aneng\.android\build-cache\0562a4536bcd4e370fa71fce4038e0cb6641c99b\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\HP de Aneng\.android\build-cache\1f124f2c8ed65be4e16247f7baf70984b0020c95\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\HP de Aneng\.android\build-cache\3be79c66ac4d7beefdfd57ec36c38e256e8c140e\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\HP de Aneng\.android\build-cache\3be79c66ac4d7beefdfd57ec36c38e256e8c140e\output\AndroidManifest.xml:26:9-47

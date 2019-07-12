@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\HP de Aneng\\Desktop\\UDPSocketDemo-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\HP de Aneng\\.android\\build-cache\\3be79c66ac4d7beefdfd57ec36c38e256e8c140e\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP de Aneng\\Desktop\\UDPSocketDemo-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\HP de Aneng\\.android\\build-cache\\3be79c66ac4d7beefdfd57ec36c38e256e8c140e\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP de Aneng\\Desktop\\UDPSocketDemo-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\HP de Aneng\\.android\\build-cache\\3be79c66ac4d7beefdfd57ec36c38e256e8c140e\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP de Aneng\\Desktop\\UDPSocketDemo-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\HP de Aneng\\.android\\build-cache\\3be79c66ac4d7beefdfd57ec36c38e256e8c140e\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    }
+]
